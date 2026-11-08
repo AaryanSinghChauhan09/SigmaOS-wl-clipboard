@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_wl_clipboard"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS wl-clipboard component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_wl_clipboard"
+path = "src/lib.rs"
