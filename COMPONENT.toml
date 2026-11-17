@@ -3,7 +3,7 @@ name = "SigmaOS-wl-clipboard"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "wl-clipboard component"
+description = "SigmaOS SigmaOS-wl-clipboard component"
 upstream = []
 
 [contract]
